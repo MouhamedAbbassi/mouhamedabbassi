@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Spring/Angular**
 
-- 📝 I regularly write articles on [mouhamed-abbassi](https://www.linkedin.com/in/mouhamed-abbassi-b46b74200/)
-
 - ✍️  How to reach me **You can shoot me an email at muhamed.abbassi@esprit.tn! I'll try to respond as soon as I can.**
 
 - ⚡ Fun fact **i like football and my family**
