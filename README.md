@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Spring/Angular**
 
-- ✍️  How to reach me **You can shoot me an email at muhamed.abbassi@esprit.tn! I'll try to respond as soon as I can.**
+- ✍️  How to reach me **You can shoot me an email at mouhamed.abbassi@esprit.tn! I'll try to respond as soon as I can.**
 
 - ⚡ Fun fact **i like football and my family**
 
