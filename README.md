@@ -28,7 +28,9 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/mouhamed-abbassi-b46b74200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mouhamed-abbassi" height="30" width="40" /></a>
-<a href="mailto:mouhamed.abbassi@esprit.tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mouhamed.abbassi@esprit.tn" height="30" width="40" /></a>
+<a href="mailto:mouhamed.abbassi@esprit.tn" target="_blank">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="mouhamed.abbassi@esprit.tn" height="30" width="40" />
+</a>
 </p>
 
  
