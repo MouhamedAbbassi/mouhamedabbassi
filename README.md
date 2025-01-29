@@ -25,7 +25,7 @@
 
 
 <div align="left" style="display: flex; align-items: center;">
-  <h3>Connect with me:
+  <h3>Connect me with:
   <a href="https://www.linkedin.com/in/mouhamed-abbassi-b46b74200/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="30" />
   </a>
