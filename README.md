@@ -26,13 +26,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/mouhamed-abbassi-b46b74200/" target="_blank">
+  <a href="https://www.linkedin.com/in/mouhamed-abbassi-b46b74200/" target="_blank" class="margin-right:10px">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn" height="30" width="30" />
   </a>
   <a href="mailto:mouhamed.abbassi@esprit.tn" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>
   <a href="https://abbassi-mouhamed.vercel.app" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" height="30" width="30" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/481/481088.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
