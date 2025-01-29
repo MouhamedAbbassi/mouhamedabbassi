@@ -33,6 +33,6 @@
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="30" width="30" />
   </a>
   <a href="https://abbassi-mouhamed.vercel.app" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="Portfolio" height="30" width="30" />
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Portfolio" height="30" width="30" />
   </a>
 </p>
