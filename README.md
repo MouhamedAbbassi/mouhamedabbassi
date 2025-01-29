@@ -19,7 +19,7 @@
 
 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,angular,c,cpp,php,symfony,java,spring,ts,nodejs,express,mongodb,mysql,bash,git,vscode&theme=dark&perline=15)
+![skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,angular,tailwind,bootstrap,c,cpp,php,symfony,java,spring,ts,nodejs,express,mongodb,mysql,postgres,bash,git,vscode&theme=dark&perline=15)
 
  
 
